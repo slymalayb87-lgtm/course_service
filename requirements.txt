@@ -1,0 +1,8 @@
+cat > requirements.txt << EOF
+Django>=4.0
+gunicorn
+djangorestframework
+psycopg2-binary
+python-decouple
+EOF
+```
